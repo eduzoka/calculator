@@ -6,7 +6,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           string oi = Environment.GetEnvironmentVariable("Path");
             Console.WriteLine("Calc");
             while (true)
             {
