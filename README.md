@@ -1,0 +1,1 @@
+Esse projeto é uma calculadora escrita em dotnet
