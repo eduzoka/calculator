@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calc");
+            Console.WriteLine("Calc"); 
             while (true)
             {
                 Console.WriteLine("Escolha uma operacao");
