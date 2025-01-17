@@ -1,0 +1,10 @@
+#artefatos de build dotnet
+
+ConsoleApp1/ConsoleApp1/bin/
+ConsoleApp1/ConsoleApp1/obj/
+
+
+
+#pasta do visual studio
+
+ConsoleApp1/.vs/
